@@ -20,4 +20,4 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 
 
 
-<p align="center"><b>© Created by Mwakio Michael</b></p?
+<p align="center"><b>© Created by Francis Musyoka</b></p?
